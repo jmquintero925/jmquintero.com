@@ -33,3 +33,5 @@ To support this, all changes to the underlying code appear as a closed issue wit
 # Isaac's Notes
 
 Using the directions [here](https://jayrobwilliams.com/posts/2020/06/academic-website/)
+
+Helpful info on pages vs posts vs collections [here](https://ben.balter.com/2015/02/20/jekyll-collections/)

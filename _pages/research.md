@@ -11,6 +11,10 @@ author_profile: true
 
 {% include base_path %}
 
-{% for post in site.publications reversed %}
+Coming soon!
+
+<!-- When you finally have work to add here, put it in the _research folder, one file per paper -->
+<!-- Then also remove the sitemap: false from each file -->
+<!-- {% for post in site.publications reversed %}
   {% include archive-single.html %}
-{% endfor %}
+{% endfor %} -->

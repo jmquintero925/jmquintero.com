@@ -173,35 +173,18 @@ kramdown:
   enable_coderay: false
 
 
+# Going to have 1 collection for now, research
+# Other things will be pages
+# In theory posts would be best for dated research?
+
 # Collections
 collections:
-  # teaching:
-  #   output: true
-  #   permalink: /:collection/:path/
   research:
     output: true
     permalink: /:collection/:path/
-  # portfolio:
-  #   output: true
-  #   permalink: /:collection/:path/
-  # talks:
-  #   output: true
-  #   permalink: /:collection/:path/
-
 
 # Defaults
 defaults:
-  # _posts
-  - scope:
-      path: ""
-      type: posts
-    values:
-      layout: single
-      author_profile: true
-      read_time: true
-      comments: true
-      share: true
-      related: true
   # _pages
   - scope:
       path: ""
@@ -209,41 +192,13 @@ defaults:
     values:
       layout: single
       author_profile: true
-  # _teaching
+  # From here: https://lazyren.github.io/devlog/execlude-folder-or-file-from-sitemap-for-jekyll-blog.html
+  # Don't include all the files from `folder_to_exclude` in the sitemap
   - scope:
-      path: ""
-      type: teaching
+      path:            files/**
     values:
-      layout: single
-      author_profile: true
-      share: true
-      comments: true
-  # _research
-  # - scope:
-  #     path: ""
-  #     type: research
-  #   values:
-  #     layout: single
-  #     author_profile: true
-  #     share: true
-  #     comments: true
-  # # _portfolio
-  # - scope:
-  #     path: ""
-  #     type: portfolio
-  #   values:
-  #     layout: single
-  #     author_profile: true
-  #     share: true
-  #     comment: true
-  # # _talks
-  # - scope:
-  #     path: ""
-  #     type: talks
-  #   values:
-  #     layout: talk
-  #     author_profile: true
-  #     share: true
+      sitemap:         false
+
 
 # Sass/SCSS
 sass:
