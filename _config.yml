@@ -220,7 +220,7 @@ plugins:
   - jekyll-gist
   - jekyll-feed
   - jekyll-redirect-from
-  - jekyll-last-modified-at
+  # - jekyll-last-modified-at Removed since not supported by Github pages
 # mimic GitHub Pages with --safe
 whitelist:
   - jekyll-paginate
@@ -231,8 +231,9 @@ whitelist:
 
 # Optional. The default date format, used if none is specified in the tag.
 # https://github.com/gjtorikian/jekyll-last-modified-at
-last-modified-at:
-  date-format: '%B %-d, %Y'
+# Removed since not supported by Github pages
+# last-modified-at:
+#   date-format: '%B %-d, %Y'
 
 # Archives
 #  Type
