@@ -7,14 +7,14 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Isaac Norwich"
+title                    : "Jose M. Quintero"
 title_separator          : "-"
-name                     : &name "Isaac Norwich"
+name                     : &name "Jose M. Quintero"
 description              : &description "Ph.D. in Economics"
-url                      : https://isaacnorwich.com # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : http://jmquintero.com/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "isaacnorwich/isaacnorwich.com"
-teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
+repository               : "jmquintero/jmquintero.com"
+teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "300x300.jpg"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 future                   : true
@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : IsaacNorwich
+  username               : JosMiguelQuinte
 facebook:
   username               :
   app_id                 :
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Isaac Norwich"
-  avatar           : "profile.png"
+  name             : "Jose M. Quintero"
+  avatar           : "profile.jpg"
   bio              : "Economics Ph.D. Student at the University of Chicago"
   location         : # "Chicago, IL"
   employer         : # "University of Chicago"
   pubmed           : 
   googlescholar    : 
-  email            : "inorwich@uchicago.edu"
+  email            : "jmquintero925@uchicago.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,20 +96,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "isaacnorwich"
+  github           : "jmquintero925"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/isaacnorwich/"
+  linkedin         : "https://www.linkedin.com/in/jose-m-quintero-234400119/"
   orcid            : # "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "IsaacNorwich"
+  twitter          : "JosMiguelQuinte"
   vine             :
   weibo            :
   xing             :

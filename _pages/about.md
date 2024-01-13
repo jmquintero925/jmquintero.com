@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: "About Me"
-# excerpt: "Isaac Norwich"
+# excerpt: "Jose M. Quintero"
 author_profile: true
 redirect_from: 
   - /about/
@@ -10,10 +10,8 @@ redirect_from:
 
 Welcome! I am a Ph.D. student in the Department of Economics at the University of Chicago. 
 
-My research interests are broadly in labor and public economics.
+My research focus on misallocation, economic growth and development. 
 
-Previously, I worked as a Pre-Doctoral Fellow for [Professor Amy Finkelstein](https://economics.mit.edu/people/faculty/amy-finkelstein) at MIT and as a Research Assistant at the Federal Reserve Board in Washington, D.C. I graduated from Washington University in St. Louis with a degree in Economics and Mathematics and am originally from New York City.
+Previously, I worked as a Research Specialist for [Professor Ufuk Akcigit](https://www.ufukakcigit.com/) at The University of Chicago, Senior Researcher at [Qunatil S.A.S](https://quantil.co/en/), and the Central Bank of Colombia. My full experience is available in my CV [here](/files/pdf/Quintero_CV_01-2024.pdf).
 
-My CV is available [here](/files/pdf/Norwich_CV_07-2023.pdf).
-
-You can reach me at [inorwich@uchicago.edu](inorwich@uchicago.edu) or through any of the sidebar links to the left.
+You can reach me at [jmquintero925@uchicago.edu](jmquintero925@uchicago.edu) or through any of the sidebar links to the left.

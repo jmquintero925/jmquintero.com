@@ -7,6 +7,6 @@ redirect_from:
   - /resume
 ---
 
-<iframe src="/files/pdf/Norwich_CV_07-2023.pdf" width="100%" height="500" frameborder="no" border="0" marginwidth="0" marginheight="0"></iframe>
+<iframe src="/files/pdf/Quintero_CV_01-2024.pdf" width="100%" height="500" frameborder="yes" border="0" marginwidth="0" marginheight="0"></iframe>
 
-You can download a PDF copy of my CV [here](/files/pdf/Norwich_CV_07-2023.pdf).
+You can download a PDF copy of my CV [here](/files/pdf/Quintero_CV_01-2024.pdf).
