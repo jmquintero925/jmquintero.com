@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About Me"
+title: "Jose M. Quintero"
 # excerpt: "Jose M. Quintero"
 author_profile: true
 redirect_from: 
