@@ -7,8 +7,8 @@
    ========================================================================== */
 
 .sidebar {
-  -webkit-transform: translate3d(0, 0 , 0);
-          transform: translate3d(0, 0 , 0);
+  -webkit-transform: translate3d(0, 0, 0);
+          transform: translate3d(0, 0, 0);
 
   @include clearfix();
   margin-bottom: 1em;
@@ -23,6 +23,20 @@
       opacity: 1;
     }
   }
+
+  /* Add padding to create space around sidebar content */
+  padding: 20px;
+
+  /* Ensure content stacks vertically */
+  display: flex;
+  flex-direction: column;
+  align-items: center; /* Centers content horizontally */
+
+  /* Add spacing between child elements */
+  & > * {
+    margin-bottom: 20px;
+  }
+}
 
 
   @include breakpoint($x-large) {
@@ -77,19 +91,22 @@
 .author__avatar {
   display: table-cell;
   vertical-align: top;
-  width: 50px;
-  // set width only, for non-square avatars
-  // height: 36px;
+  width: 300px; /* Set your desired width */
+  height: 400px; /* Set your desired height */
+  object-fit: cover; /* Ensures the image covers the area without distortion */
+  border-radius: 0; /* Removes the oval shape */
 
   @include breakpoint($large) {
     display: block;
-    width: auto;
-    height: auto;
+    width: 300px; /* Maintain rectangular size for larger screens */
+    height: 400px;
   }
 
   img {
-    max-width: 175px;
-    border-radius: 50%;
+    width: 100%; /* Ensures the image scales to fit the parent dimensions */
+    height: 100%;
+    object-fit: cover;
+    border-radius: 0; /* Ensures the image stays rectangular */
 
     @include breakpoint($large) {
       padding: 5px;
