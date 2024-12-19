@@ -7,8 +7,8 @@
    ========================================================================== */
 
 .sidebar {
-  -webkit-transform: translate3d(0, 0, 0);
-          transform: translate3d(0, 0, 0);
+  -webkit-transform: translate3d(0, 0 , 0);
+          transform: translate3d(0, 0 , 0);
 
   @include clearfix();
   margin-bottom: 1em;
@@ -23,20 +23,6 @@
       opacity: 1;
     }
   }
-
-  /* Add padding to create space around sidebar content */
-  padding: 20px;
-
-  /* Ensure content stacks vertically */
-  display: flex;
-  flex-direction: row; /* Ensure items are in a row */
-  align-items: flex-start; /* Align items to the start */
-
-  /* Add spacing between child elements */
-  & > * {
-    margin-bottom: 20px;
-  }
-}
 
 
   @include breakpoint($x-large) {
@@ -89,25 +75,21 @@
    ========================================================================== */
 
 .author__avatar {
-  display: block; /* Make sure display is block */
+  display: table-cell;
   vertical-align: top;
-  margin-right: 15px; /* Add space between avatar and text */
-  width: 300px; /* Set your desired width */
-  height: 400px; /* Set your desired height */
-  object-fit: cover; /* Ensures the image covers the area without distortion */
-  border-radius: 0; /* Removes the oval shape */
+  width: 150px;
+  // set width only, for non-square avatars
+  // height: 36px;
 
   @include breakpoint($large) {
     display: block;
-    width: 300px; /* Maintain rectangular size for larger screens */
-    height: 400px;
+    width: auto;
+    height: auto;
   }
 
   img {
-    width: 100%; /* Ensures the image scales to fit the parent dimensions */
-    height: 100%;
-    object-fit: cover;
-    border-radius: 0; /* Ensures the image stays rectangular */
+    max-width: 175px;
+    border-radius: 0%;
 
     @include breakpoint($large) {
       padding: 5px;
@@ -117,7 +99,6 @@
 }
 
 .author__content {
-  flex: 1; /* Allows the content to take the remaining space */
   display: table-cell;
   vertical-align: top;
   padding-left: 15px;
