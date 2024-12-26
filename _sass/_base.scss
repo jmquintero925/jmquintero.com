@@ -90,6 +90,14 @@ abbr[data-original-title] {
   border-bottom: 1px dotted $text-color;
 }
 
+details summary {
+  list-style: none;
+}
+
+details summary::-webkit-details-marker {
+  display: none;
+}
+
 /* blockquotes */
 
 blockquote {
@@ -304,6 +312,7 @@ nav {
     margin-top: 0;
   }
 }
+
 
 /*
    Global animation transition

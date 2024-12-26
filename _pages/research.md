@@ -15,7 +15,7 @@ author_profile: true
 <body>
 <ul> 
 <li> <b>Import Firm Concentration and Tariff Incidence Across Countries </b> <i> (Draft coming soon!) </i> <br>
- <span style="font-size:small;"> (with <a href="https://sites.google.com/site/rradao/">Rodrigo Adão</a>, <a href="https://sites.google.com/site/decrganamargaridafernandes/home?authuser=0">Ana Fernandez</a>, and <a href="https://faculty.chicagobooth.edu/chang-tai-hsieh">Chang-Tai Hsieh</a> </span> 
+ <span style="font-size:small;"> with <a href="https://sites.google.com/site/rradao/">Rodrigo Adão</a>, <a href="https://sites.google.com/site/decrganamargaridafernandes/home?authuser=0">Ana Fernandez</a>, and <a href="https://faculty.chicagobooth.edu/chang-tai-hsieh">Chang-Tai Hsieh</a> </span> 
  <ul>
  <li> <details>
     <summary>  Abstract </summary>
@@ -23,18 +23,18 @@ author_profile: true
 </details> </li>
 </ul>
 <li> <b> (In)formal Growth: Wage Dynamics in Developing Economies </b> <i> (New Draft coming soon!) </i> <br>
-<span style="font-size:small;"> (with  <a href="https://www.santiago-franco.com/home">Santiago Franco</a> </span>
+<span style="font-size:small;"> with  <a href="https://www.santiago-franco.com/home">Santiago Franco</a>  </span>
 <ul>
  <li> <details>
     <summary>  Abstract </summary>
     <p><span class="cmu-serif" style="font-size:small;">Labor informality is pervasive in developing economies. In this paper, we investigate the interconnection between informal labor, human capital accumulation, and economic growth. How do informal labor markets affect human capital accumulation, and vice versa? What are the aggregate effects of this interaction on growth and welfare? Using panel data from Chile and Colombia, we explore the dynamics of the formal and informal sectors by documenting two new empirical facts. First, wages for formal workers increase significantly more over the life cycle than wages for informal workers. Second, a substantial portion of this formal wage premium is attributable to workers' skill-based sorting. To rationalize these patterns, we build an endogenous growth model where heterogeneous workers sort into formal and informal labor markets based on their potential earnings. Worker's human capital increases over their life cycle through interactions with other workers. In equilibrium, more knowledgeable workers sort into the formal sector, and the growth rate of the economy is determined by the rate at which all workers meet more knowledgeable formal workers. We structurally estimate the parameters of the model and use it to quantify the effect of formalization policies. We find that policies that decrease the cost of operating formally are more effective in reducing the size of the informal sector compared to policies that increase the cost of producing informally. However, both types of policies have adverse effects on economic growth by lowering the quality of interactions of more skilled workers.</span> </p>
     </details> </li>
- <li> [Paper](https://francotabares.github.io/JMpacket/Franco_Quintero_Informal_Growth.pdf) </li>
+ <li> <a href="https://francotabares.github.io/JMpacket/Franco_Quintero_Informal_Growth.pdf">Paper</a> </li>
  <li> Slides </li>
  </ul>
  </li>
-<li> Good Firms, Bad Policies: The Dynamics of Informality and Industry Policy in Shaping Economic Growth** <i> (Draft coming soon!) </i> <br>
-<span style="font-size:small;"> (with [Ufuk Akcigit](https://www.ufukakcigit.com/), Y. Emre Akgunduz, [Harun Alp](https://www.harunalp.net/), and Seyit M. Cilasun) </span>
+<li> <b> Good Firms, Bad Policies: The Dynamics of Informality and Industry Policy in Shaping Economic Growth </b> <i> (Draft coming soon!) </i> <br>
+<span style="font-size:small;"> with <a href="https://www.ufukakcigit.com/">Ufuk Akcigit</a>, Y. Emre Akgunduz, <a href="https://www.harunalp.net/">Harun Alp</a>, and Seyit M. Cilasun </span>
 <ul>
  <li> <details>
     <summary>  Abstract </summary>
@@ -43,8 +43,6 @@ author_profile: true
  <li> Slides </li>
 </ul>
  </li>
- </ul>
-</body>
 
 <!-- When you finally have work to add here, put it in the _research folder, one file per paper -->
 <!-- Then also remove the sitemap: false from each file -->
