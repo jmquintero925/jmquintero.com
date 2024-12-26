@@ -14,17 +14,16 @@ author_profile: true
 ### Work in Progress 
 <body>
 <ul> 
-<li>**Import Firm Concentration and Tariff Incidence Across Countries** <i> (Draft coming soon!) </i> <br>
- <span style="font-size:small;"> (with [Rodrigo Adão](https://sites.google.com/site/rradao/), [Ana Fernandez](https://sites.google.com/site/decrganamargaridafernandes/home?authuser=0), and [Chang-Tai Hsieh](https://faculty.chicagobooth.edu/chang-tai-hsieh)) <span> <br>
+<li> <b>Import Firm Concentration and Tariff Incidence Across Countries </b> <i> (Draft coming soon!) </i> <br>
+ <span style="font-size:small;"> (with <a href="https://sites.google.com/site/rradao/">Rodrigo Adão</a>, <a href="https://sites.google.com/site/decrganamargaridafernandes/home?authuser=0">Ana Fernandez</a>, and <a href="https://faculty.chicagobooth.edu/chang-tai-hsieh">Chang-Tai Hsieh</a> </span> 
  <ul>
  <li> <details>
     <summary>  Abstract </summary>
     <p> <span class="cmu-serif" style="font-size:small;">How does the market structure among importer firms affect the aggregate and distributional effects of changes in trade costs? We combine a model of domestic pricing decisions of importer firms with administrative firm-level import records from 55 countries to answer this question. We show that imports of a good are highly concentrated among the largest importer firms, with this concentration being more pronounced in smaller and lower income countries. We develop a model in which import firm concentration determines domestic pricing strategies and, consequently, the incidence of tariffs on consumer prices and firm markups. The role of import concentration is captured through the firm-level elasticity of imports to tariff changes, which depends solely on the firm’s initial share of the country’s imports of a good. We estimate that the negative impact of tariff increases on firm imports is monotonically decreasing with the firm's good import share. The combination of our model and estimates implies that, due to higher import concentration, poorer and smaller countries have higher markups on imported goods and a greater incidence of trade cost changes on firm profits than on consumer prices.</span> </p>
 </details> </li>
 </ul>
-</li>
-<li> **(In)formal Growth: Wage Dynamics in Developing Economies** <i> (New Draft coming soon!) </i> <br>
-<span style="font-size:small;">(with [Santiago Franco](https://www.santiago-franco.com/home)) <span style="font-size:small;">
+<li> <b> (In)formal Growth: Wage Dynamics in Developing Economies </b> <i> (New Draft coming soon!) </i> <br>
+<span style="font-size:small;"> (with  <a href="https://www.santiago-franco.com/home">Santiago Franco</a> </span>
 <ul>
  <li> <details>
     <summary>  Abstract </summary>
