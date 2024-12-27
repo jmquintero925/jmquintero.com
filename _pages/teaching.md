@@ -9,16 +9,21 @@ author_profile: true
 University of Chicago
 ------------------
 
+- Winter 2025: *Macroeconomics* (EMBA) for [Jason Faberman](https://sites.google.com/view/jason-faberman/home).
 
--   Fall 2023: *Macroeconomics (EMBA)* for [Jason Faberman](https://sites.google.com/view/jason-faberman/home). 
+- Fall 2024: *Macroeconomics and the Global Environment* (EMBA) for [Jason Faberman](https://sites.google.com/view/jason-faberman/home).
 
-- Fall 2023: *International Macroeconomics and Trade (Ph.D)* for [Rodrigo Adão](https://sites.google.com/site/rradao/).
+- Spring 2024: *Applied Macroeconomics: Micro Data for Macro Models* (Ph.D) for [Erik Hurst](https://erikhurst.com/) and [Chang-Tai Hsieh](https://faculty.chicagobooth.edu/chang-tai-hsieh). 
 
-- Spring 2023: *The Theory of Income III (Ph.D)* for [Fernando Alvarez](https://alvarezfernando.com/)
+- Fall 2023: *Macroeconomics* (EMBA) for [Jason Faberman](https://sites.google.com/view/jason-faberman/home).
 
-- Winter 2023: *Economic Growth (Undergrad)* for [Ufuk Akcigit](https://www.ufukakcigit.com/)
+- Fall 2023: *International Macroeconomics and Trade* (Ph.D) for [Rodrigo Adão](https://sites.google.com/site/rradao/).
 
-- Fall 2022: *Topics in Macroeconomics (Undergrad)* for [Nancy Stokey](https://voices.uchicago.edu/nancystokey/)
+- Spring 2023: *The Theory of Income III* (Ph.D) for [Fernando Alvarez](https://alvarezfernando.com/)
+
+- Winter 2023: *Economic Growth* (Undergrad) for [Ufuk Akcigit](https://www.ufukakcigit.com/)
+
+- Fall 2022: *Topics in Macroeconomics* (Undergrad) for [Nancy Stokey](https://voices.uchicago.edu/nancystokey/)
 
 <!-- {% for post in site.teaching reversed %}
   {% include archive-single.html %}
