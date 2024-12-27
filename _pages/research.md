@@ -31,7 +31,7 @@ author_profile: true
   </details> 
  </li>
 <li> <b> Good Firms, Bad Policies: The Dynamics of Informality and Industry Policy in Shaping Economic Growth </b> <i> (Draft coming soon!) </i> <br>
-<span style="font-size:small;"> (with <a href="https://www.ufukakcigit.com/">Ufuk Akcigit</a>, Y. Emre Akgunduz, <a href="https://www.harunalp.net/">Harun Alp</a>, and Seyit M. Cilasun) </span>
+<span style="font-size:small;"> (with <a href="https://www.ufukakcigit.com/">Ufuk Akcigit</a>, Y. Emre Akgunduz, <a href="https://www.harunalp.net/">Harun Alp</a>, and Seyit M. Cilasun) </span> <br>
 <span style="font-size:small;"> <a href="{{ 'files/pdf/Slides_AAQ.pdf' | relative_url }}"> [Slides]</a> (from <a href="https://ridge.org.uy/wp-content/uploads/2024/06/PROGRAMME_GDM.pdf">RIDGE 2022</a>) </span> <br>
 <details>
 <summary> <span class="cmu-serif;" style="font-size:small; color: #007bb6;">  Abstract [+] </span> </summary>
@@ -39,7 +39,7 @@ author_profile: true
  </details> 
  </li>
  <li> <b> Financial Development, Informality, and Misallocation </b> <i> (Draft coming soon!) </i> <br>
-<span style="font-size:small;"> (with <a href="https://sites.google.com/site/davidperezreyna/">David Perez-Reyna</a>) </span>
+<span style="font-size:small;"> (with <a href="https://sites.google.com/site/davidperezreyna/">David Perez-Reyna</a>) </span> <br>
  <span style="font-size:small;"> <a href="{{ 'files/pdf/Slides_PQ.pdf' | relative_url }}"> [Slides]</a> (from <a href="https://www.lacealames2024.org/pdfs/2024-LACEALAMES-Detailed-Program.pdf">LACEA LAMES 2024</a>) </span> <br>
 <details>
 <summary> <span class="cmu-serif;" style="font-size:small; color: #007bb6;">  Abstract [+] </span> </summary>
