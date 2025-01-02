@@ -11,7 +11,8 @@ author_profile: true
 
 {% include base_path %}
 
-### Work in Progress 
+<h2>  Work in Progress </h2>
+<hr />
 <body>
 <ul> 
 <li> <b>Import Firm Concentration and Tariff Incidence Across Countries </b> <i> (Draft coming soon!) </i> <br>
