@@ -20,10 +20,22 @@ author_profile: true
   </thead>
   <tbody>
   <tr>
+      <td style="text-align: left; padding: 5px;">Theory of Income III </td>
+      <td style="text-align: left; padding: 5px;">Ph.D </td>
+      <td style="text-align: left; padding: 5px;"> <a href="https://alvarezfernando.com/">Fernando Alvarez</a> </td>
+      <td style="text-align: right; padding: 5px;">Spring 2025, and 2023</td>
+    </tr>
+  <tr>
+      <td style="text-align: left; padding: 5px;">Macroeconomics and the Business Environment</td>
+      <td style="text-align: left; padding: 5px;"> EMBA </td>
+      <td style="text-align: left; padding: 5px;"> <a href="https://sites.google.com/view/jason-faberman/home">Jason Faberman</a> </td>
+      <td style="text-align: right; padding: 5px;">Winter 2025</td>
+    </tr>
+  <tr>
       <td style="text-align: left; padding: 5px;">Macroeconomics and the Global Environment</td>
       <td style="text-align: left; padding: 5px;"> EMBA </td>
       <td style="text-align: left; padding: 5px;"> <a href="https://sites.google.com/view/jason-faberman/home">Jason Faberman</a> </td>
-      <td style="text-align: right; padding: 5px;">Fall 2023</td>
+      <td style="text-align: right; padding: 5px;">Fall 2024</td>
     </tr>
     <tr>
       <td style="text-align: left; padding: 5px;">Applied Macroeconomics: Micro Data for Macro Models </td>
@@ -49,13 +61,7 @@ author_profile: true
       <td style="text-align: left; padding: 5px;">Lecturer</td>
       <td style="text-align: right; padding: 5px;">Summer 2023</td>
     </tr>
-    <tr>
-      <td style="text-align: left; padding: 5px;">Theory of Income III </td>
-      <td style="text-align: left; padding: 5px;">Ph.D </td>
-      <td style="text-align: left; padding: 5px;"> <a href="https://alvarezfernando.com/">Fernando Alvarez</a> </td>
-      <td style="text-align: right; padding: 5px;">Spring 2023</td>
-    </tr>
-    <tr>
+     <tr>
       <td style="text-align: left; padding: 5px;">Economic Growth </td>
       <td style="text-align: left; padding: 5px;">Undergraduate </td>
       <td style="text-align: left; padding: 5px;"> <a href="https://www.ufukakcigit.com/">Ufuk Akcigit</a> </td>
