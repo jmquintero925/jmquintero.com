@@ -1,4 +1,10 @@
----
+\documentclass[10pt]{article}
+\usepackage[usenames]{color} %used for font color
+\usepackage{amssymb} %maths
+\usepackage{amsmath} %maths
+\usepackage[utf8]{inputenc} %useful to type directly diacritic characters
+\begin{document}
+\begin{align*}---
 layout: compress
 ---
 
@@ -18,14 +24,9 @@ layout: compress
 
     {{ content }}
 
-    <div class="page__footer">
-      <footer>
-        {% include footer/custom.html %}
-        {% include footer.html %}
-      </footer>
-    </div>
-
     {% include scripts.html %}
 
   </body>
 </html>
+\end{align*}
+\end{document}
