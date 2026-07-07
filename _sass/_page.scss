@@ -13,7 +13,7 @@
 
   @include breakpoint($x-large) {
     display: grid;
-    grid-template-columns: clamp(175px, 24vw, 500px) minmax(0, $large);
+    grid-template-columns: clamp(175px, calc(24vw - 132px), 300px) minmax(0, $large);
     column-gap: 2em;
     max-width: none;
     margin-left: 0;
