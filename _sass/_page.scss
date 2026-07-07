@@ -8,16 +8,16 @@
   margin-top: 2em;
   padding-left: 1em;
   padding-right: 1em;
+  max-width: none;
+  margin-left: 0;
+  margin-right: 0;
   animation: intro 0.3s both;
   animation-delay: 0.35s;
 
-  @include breakpoint($x-large) {
+  @include breakpoint($large) {
     display: grid;
-    grid-template-columns: clamp(175px, calc(24vw - 132px), 300px) minmax(0, $large);
+    grid-template-columns: clamp(175px, calc(14.286vw + 42.86px), 300px) minmax(0, 1fr);
     column-gap: 2em;
-    max-width: none;
-    margin-left: 0;
-    margin-right: 0;
   }
 }
 
@@ -28,9 +28,10 @@
     @include suffix(2 of 12);
   }
 
-  @include breakpoint($x-large) {
+  @include breakpoint($large) {
     float: none;
     width: auto;
+    max-width: $large;
     margin-right: 0;
     padding-left: 0;
     padding-right: 0;

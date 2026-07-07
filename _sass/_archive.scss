@@ -14,9 +14,10 @@
     @include prefix(0.5 of 12);
   }
 
-  @include breakpoint($x-large) {
+  @include breakpoint($large) {
     float: none;
     width: auto;
+    max-width: $large;
     margin-right: 0;
     padding-left: 0;
     grid-column: 2;

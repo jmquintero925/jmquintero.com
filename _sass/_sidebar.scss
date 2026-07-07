@@ -25,9 +25,10 @@
   }
 
 
-  @include breakpoint($x-large) {
+  @include breakpoint($large) {
     float: none;
     width: auto;
+    margin-right: 0;
     padding-right: 0;
     grid-column: 1;
   }
@@ -86,26 +87,19 @@
 
   @include breakpoint($large) {
     display: block;
-    width: auto;
+    width: 100%;
     height: auto;
   }
 
-  @include breakpoint($x-large) {
-    width: 100%;
-  }
-
   img {
-    width: clamp(175px, calc(24vw - 132px), 300px);
+    width: 175px;
     max-width: 100%;
     border-radius: 0%;
 
     @include breakpoint($large) {
+      width: 100%;
       padding: 5px;
       border: 1px solid $border-color;
-    }
-
-    @include breakpoint($x-large) {
-      width: 100%;
     }
   }
 }
@@ -138,23 +132,33 @@
   font-size: $type-size-5;
 }
 
-.author__bio {
+.author__bio,
+.author__affiliation {
   margin: 0;
+}
 
+.author__bio {
   @include breakpoint($large) {
     margin-top: 10px;
-    margin-bottom: 20px;
+  }
+}
+
+.author__affiliation {
+  @include breakpoint($large) {
+    margin-bottom: 0;
   }
 }
 
 .author__urls-wrapper {
   position: relative;
-  display: table-cell;
-  vertical-align: middle;
+  display: block;
+  vertical-align: top;
   font-family: $sans-serif;
   z-index: 10;
   position: relative;
   cursor: pointer;
+  text-align: left;
+  margin-top: 0.5em;
 
   li:last-child {
     a {
@@ -164,10 +168,12 @@
 
   @include breakpoint($large) {
     display: block;
+    margin-top: 20px;
   }
 
   button {
     margin-bottom: 0;
+    margin-left: 0;
 
     @include breakpoint($large) {
       display: none;
@@ -178,7 +184,8 @@
 .author__urls {
   display: none;
   position: absolute;
-  right: 0;
+  left: 0;
+  right: auto;
   margin-top: 15px;
   padding: 10px;
   list-style-type: none;
