@@ -9,7 +9,7 @@ author_profile: true
 <h2> The University of Chicago </h2> 
 <body>
 
-<table style="width: 100%; border-collapse: collapse; font-family: Arial, sans-serif;">
+<table style="width: 100%; border-collapse: collapse;">
   <thead>
     <tr>
       <th style="text-align: center; font-weight: bold; font-size: 1.2em; border-bottom: 1px solid black;">Class </th>

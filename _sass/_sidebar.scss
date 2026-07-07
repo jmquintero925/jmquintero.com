@@ -26,7 +26,10 @@
 
 
   @include breakpoint($x-large) {
+    float: none;
+    width: auto;
     padding-right: 0;
+    grid-column: 1;
   }
   
   > * {
@@ -87,14 +90,22 @@
     height: auto;
   }
 
+  @include breakpoint($x-large) {
+    width: 100%;
+  }
+
   img {
-    width: clamp(175px, 12vw, 260px);
+    width: clamp(175px, 18vw, 500px);
     max-width: 100%;
     border-radius: 0%;
 
     @include breakpoint($large) {
       padding: 5px;
       border: 1px solid $border-color;
+    }
+
+    @include breakpoint($x-large) {
+      width: 100%;
     }
   }
 }

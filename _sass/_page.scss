@@ -12,7 +12,12 @@
   animation-delay: 0.35s;
 
   @include breakpoint($x-large) {
-    max-width: $x-large;
+    display: grid;
+    grid-template-columns: clamp(175px, 24vw, 500px) minmax(0, $large);
+    column-gap: 2em;
+    max-width: none;
+    margin-left: 0;
+    margin-right: 0;
   }
 }
 
@@ -21,6 +26,15 @@
     @include span(10 of 12 last);
     @include prefix(0.5 of 12);
     @include suffix(2 of 12);
+  }
+
+  @include breakpoint($x-large) {
+    float: none;
+    width: auto;
+    margin-right: 0;
+    padding-left: 0;
+    padding-right: 0;
+    grid-column: 2;
   }
 
   .page__inner-wrap {
