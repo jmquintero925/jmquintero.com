@@ -181,8 +181,13 @@
     display: block;
     margin: 0 1rem;
     padding: 0.5rem 0;
+    font-size: 1.1rem;
     color: $masthead-link-color;
     text-decoration: none;
+
+    @include breakpoint($medium) {
+      font-size: 1.2rem;
+    }
 
     &:hover {
       color: $masthead-link-color-hover;
