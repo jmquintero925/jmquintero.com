@@ -10,7 +10,7 @@ hide_title: true
 <h2> The University of Chicago </h2> 
 <body>
 
-<table style="width: 100%; border-collapse: collapse; font-size: 1em;">
+<table class="teaching-table" style="width: 100%; border-collapse: collapse;">
   <thead>
     <tr>
       <th style="text-align: center; font-weight: bold; font-size: 1.2em; border-bottom: 1px solid black;">Class </th>
