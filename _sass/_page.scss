@@ -58,6 +58,20 @@
   }
 }
 
+.page--no-title {
+  header {
+    display: none;
+  }
+
+  .page__content {
+    margin-top: 0;
+
+    > :first-child {
+      margin-top: 0;
+    }
+  }
+}
+
 .page__lead {
   font-family: $global-font-family;
   font-size: $type-size-4;
@@ -113,6 +127,28 @@
 
   .small {
     font-size: $type-size-6;
+  }
+
+  .research-abstract {
+    color: #005a9c;
+
+    summary {
+      cursor: pointer !important;
+      font-weight: 600;
+      list-style: none;
+    }
+
+    summary * {
+      cursor: pointer !important;
+    }
+
+    summary::-webkit-details-marker {
+      display: none;
+    }
+
+    .abstract-state {
+      margin-left: 0.15em;
+    }
   }
 
   /* blockquote citations */
