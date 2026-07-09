@@ -13,7 +13,6 @@ author_profile: true
 
 <h2>  Work in Progress </h2>
 <hr />
-<body>
 <ul> 
 <li> <b>Trade Shocks in Distorted Economies: Evidence from Firm-level Import Data </b> <br>
  <span style="font-size:1em;"> (with <a href="https://sites.google.com/site/rradao/">Rodrigo Adão</a>, <a href="https://sites.google.com/site/decrganamargaridafernandes/home?authuser=0">Ana Fernandes</a>, and <a href="https://faculty.chicagobooth.edu/chang-tai-hsieh">Chang-Tai Hsieh</a>) </span> <br>
@@ -34,8 +33,7 @@ author_profile: true
   </details> 
  </li>
 <li> <b> Cost of Size-dependent Regulations: The Role of Informality and Firm Heterogeneity </b> <i> (Draft coming soon!) </i> <br>
-<span style="font-size:1em;"> (with <a href="https://www.ufukakcigit.com/">Ufuk Akcigit</a>, Y. Emre Akgunduz, Harun Alp, and Seyit M. Cilasun) </span> <br>
-<span style="font-size:1em;"> <a href="{{ 'files/pdf/Slides_AAQ.pdf' | relative_url }}"> [Slides]</a> (from <a href="https://ridge.org.uy/wp-content/uploads/2024/06/PROGRAMME_GDM.pdf">RIDGE 2022</a>) </span> <br>
+<span style="font-size:1em;"> (with <a href="https://www.ufukakcigit.com/">Ufuk Akcigit</a>, Y. Emre Akgunduz, <a href="https://www.harunalp.net/">Harun Alp</a>, and Seyit M. Cilasun) </span> <br>
 <details class="research-abstract">
 <summary style="cursor: pointer;"> <span class="cmu-serif;" style="font-size:1em; font-weight: 600; cursor: pointer;">  Abstract <span class="abstract-state" style="cursor: pointer;">[+]</span></span> </summary>
 <p> <span class="cmu-serif" style="font-size:1em;">We study the effects of size-dependent regulations in a dynamic model in which heterogeneous firms spend resources to grow by improving their productivity and can rely on informality in the labor market. We use the model to study firms in Turkey, where labor market regulations make operation more costly for firms with more than 50 employees. We find that firms rely more on informality to avoid the burden of size-dependent regulations: the overall share of informality would be lower by 5.9% in the absence of regulation. Additionally, size-dependent policies take a higher toll on firms with high growth potential. In a counterfactual economy without distortion, the share of these firms would increase by 2.5%, and the share of firms with more than 50 employees would increase by 78%. Finally, without regulation, economic growth and welfare would increase by 1.9% and 0.6%, respectively.</span> </p>
@@ -43,12 +41,12 @@ author_profile: true
  </li>
  <li> <b> Financial Development, Informality, and Misallocation </b> <i> (Draft coming soon!) </i> <br>
 <span style="font-size:1em;"> (with <a href="https://economics.uchicago.edu/directory/sreyas-mahadevan">Sreyas Mahadevan</a>, and <a href="https://sites.google.com/site/davidperezreyna/">David Perez-Reyna</a>) </span> <br>
- <span style="font-size:1em;"> <a href="{{ 'files/pdf/Slides_PQ.pdf' | relative_url }}"> [Slides]</a> (from <a href="https://www.lacealames2024.org/pdfs/2024-LACEALAMES-Detailed-Program.pdf">LACEA LAMES 2024</a>) </span> <br>
 <details class="research-abstract">
 <summary style="cursor: pointer;"> <span class="cmu-serif;" style="font-size:1em; font-weight: 600; cursor: pointer;">  Abstract <span class="abstract-state" style="cursor: pointer;">[+]</span></span> </summary>
 <p> <span class="cmu-serif" style="font-size:1em;"> Financial development plays a crucial role in driving economic growth. In this paper, we analyze the relationship between financial development and informality. Using Enterprise Surveys (WBES) data, we find a negative correlation: economies with higher financial development exhibit lower informality rates. To rationalize these observations, we propose a two-period model where firms are subject to financial friction and endogenously choose formal and informal labor. The financial friction is a correlated distortion, so higher financial development reduces misallocation and benefits more productive firms. This leads to increased labor demand, productivity-enhancing investments, and positive effects on aggregate welfare and production. </span> </p>
  </details> 
   </li>
+</ul>
 
 <!-- When you finally have work to add here, put it in the _research folder, one file per paper -->
 <!-- Then also remove the sitemap: false from each file -->
