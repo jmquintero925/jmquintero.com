@@ -11,7 +11,7 @@ author_profile: true
 
 {% include base_path %}
 
-<h2>  Work in Progress </h2>
+<h2> Working Papers </h2>
 <hr />
 <ul> 
 <li> <b>Trade Shocks in Distorted Economies: Evidence from Firm-level Import Data </b> <br>
@@ -23,23 +23,28 @@ author_profile: true
   <p> <span class="cmu-serif;" style="font-size:1em;"> Using a dataset of firm-level imports for 57 countries, we measure importer firm concentration and its impact on the aggregate and distributional effects of tariff changes. Our model links importer concentration to the domestic market power of importer firms, as summarized by the firm-level elasticity of imports to tariff changes. In our data, this elasticity decreases monotonically with a firm's import share of a given good, implying that a firm's markup increases with its import share. Given these estimates, the incidence of tariff changes depends on the between- and within-good covariance between (i) import responses and (ii) initial markups. Among the trade liberalization episodes in our sample, we find that import market concentration induces changes in allocative efficiency comparable in magnitude to welfare changes predicted by neoclassical mechanisms. The higher and more dispersed concentration in import markets of poorer and smaller countries amplifies the effect of tariff changes on allocative efficiency. </span> </p>
 </details> 
 </li>
-<li> <b> (In)formal Growth: Knowledge Dynamics with Learning Segmentation </b>  <br>
+<li> <b> Learning Segmentation and Economic Development </b> <i> (New Draft coming soon!) </i> <br>
 <span style="font-size:1em;"> (with  <a href="https://www.santiago-franco.com/home">Santiago Franco</a>)  </span> <br>
  <span style="font-size:1em;"> <a href="https://francotabares.github.io/JMpacket/Franco_Quintero_Informal_Growth.pdf">[Paper]</a> </span> 
- <span style="font-size:1em;"> <a href="{{ 'files/pdf/Slides_FQ.pdf' | relative_url }}">[Slides]</a> (from <a href="https://live.eventtia.com/es/the-economics-of-informality-2024/Program/">The Economics of Informality 2024</a>)</span> <br>
+ <span style="font-size:1em;"> <a href="{{ 'files/pdf/slides/Slides_FQ.pdf' | relative_url }}">[Slides]</a> (from <a href="https://live.eventtia.com/es/the-economics-of-informality-2024/Program/">The Economics of Informality 2024</a>)</span> <br>
 <details class="research-abstract">
 <summary style="cursor: pointer;"> <span class="cmu-serif;" style="font-size:1em; font-weight: 600; cursor: pointer;"> Abstract <span class="abstract-state" style="cursor: pointer;">[+]</span> </span>  </summary>
- <p><span class="cmu-serif;" style="font-size:1em;">Labor informality is pervasive in developing economies. In this paper, we investigate the interconnection between informal labor, human capital accumulation, and economic growth. How do informal labor markets affect human capital accumulation, and vice versa? What are the aggregate effects of this interaction on growth and welfare? Using panel data from Chile and Colombia, we explore the dynamics of the formal and informal sectors by documenting two new empirical facts. First, wages for formal workers increase significantly more over the life cycle than wages for informal workers. Second, a substantial portion of this formal wage premium is attributable to workers' skill-based sorting. To rationalize these patterns, we build an endogenous growth model where heterogeneous workers sort into formal and informal labor markets based on their potential earnings. Worker's human capital increases over their life cycle through interactions with other workers. In equilibrium, more knowledgeable workers sort into the formal sector, and the growth rate of the economy is determined by the rate at which all workers meet more knowledgeable formal workers. We structurally estimate the parameters of the model and use it to quantify the effect of formalization policies. We find that policies that decrease the cost of operating formally are more effective in reducing the size of the informal sector compared to policies that increase the cost of producing informally. However, both types of policies have adverse effects on economic growth by lowering the quality of interactions of more skilled workers.</span> </p>
+ <p><span class="cmu-serif;" style="font-size:1em;">How does learning from others shape economic development? We answer this question with a quantitative model of multiple labor markets and modern and traditional sectors, capturing key features of dual economies in developing countries. Workers sort across sectors and labor markets and accumulate human capital by learning from peers. Learning opportunities are sector-specific and depend on peer composition within the labor market. The model makes one main prediction: more skilled workers sort into the modern sector and, as a consequence, workers in this sector experience faster wage growth because they are exposed to higher-skilled peers. We test this prediction using longitudinal worker data from Chile and find empirical support for it. Finally, we estimate the model and use it to quantify how income per capita and welfare would change if traditional-sector workers had access to the same learning opportunities as modern-sector workers.</span> </p>
   </details> 
  </li>
-<li> <b> Cost of Size-dependent Regulations: The Role of Informality and Firm Heterogeneity </b> <i> (Draft coming soon!) </i> <br>
+</ul>
+
+<h2> Work in Progress </h2>
+<hr />
+<ul>
+<li> <b> Cost of Size-dependent Regulations: The Role of Informality and Firm Heterogeneity </b> <br>
 <span style="font-size:1em;"> (with <a href="https://www.ufukakcigit.com/">Ufuk Akcigit</a>, Y. Emre Akgunduz, <a href="https://www.harunalp.net/">Harun Alp</a>, and Seyit M. Cilasun) </span> <br>
 <details class="research-abstract">
 <summary style="cursor: pointer;"> <span class="cmu-serif;" style="font-size:1em; font-weight: 600; cursor: pointer;">  Abstract <span class="abstract-state" style="cursor: pointer;">[+]</span></span> </summary>
 <p> <span class="cmu-serif" style="font-size:1em;">We study the effects of size-dependent regulations in a dynamic model in which heterogeneous firms spend resources to grow by improving their productivity and can rely on informality in the labor market. We use the model to study firms in Turkey, where labor market regulations make operation more costly for firms with more than 50 employees. We find that firms rely more on informality to avoid the burden of size-dependent regulations: the overall share of informality would be lower by 5.9% in the absence of regulation. Additionally, size-dependent policies take a higher toll on firms with high growth potential. In a counterfactual economy without distortion, the share of these firms would increase by 2.5%, and the share of firms with more than 50 employees would increase by 78%. Finally, without regulation, economic growth and welfare would increase by 1.9% and 0.6%, respectively.</span> </p>
  </details> 
  </li>
- <li> <b> Financial Development, Informality, and Misallocation </b> <i> (Draft coming soon!) </i> <br>
+ <li> <b> Financial Development, Informality, and Misallocation </b> <br>
 <span style="font-size:1em;"> (with <a href="https://economics.uchicago.edu/directory/sreyas-mahadevan">Sreyas Mahadevan</a>, and <a href="https://sites.google.com/site/davidperezreyna/">David Perez-Reyna</a>) </span> <br>
 <details class="research-abstract">
 <summary style="cursor: pointer;"> <span class="cmu-serif;" style="font-size:1em; font-weight: 600; cursor: pointer;">  Abstract <span class="abstract-state" style="cursor: pointer;">[+]</span></span> </summary>
