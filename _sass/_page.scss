@@ -5,30 +5,31 @@
 #main {
   @include container;
   @include clearfix;
-  margin-top: 2em;
+  margin-top: 1em;
   padding-left: 1em;
   padding-right: 1em;
-  max-width: none;
-  margin-left: 0;
-  margin-right: 0;
+  max-width: 1280px;
+  margin-left: auto;
+  margin-right: auto;
   animation: intro 0.3s both;
   animation-delay: 0.35s;
 
-  @include breakpoint($large) {
+  @include breakpoint($two-column) {
     display: grid;
-    grid-template-columns: clamp(175px, calc(14.286vw + 42.86px), 300px) minmax(0, 1fr);
-    column-gap: 2em;
+    padding-left: 2em;
+    grid-template-columns: clamp(220px, 18vw, 240px) minmax(0, 1fr);
+    column-gap: 1.5em;
   }
 }
 
 .page {
-  @include breakpoint($large) {
+  @include breakpoint($two-column) {
     @include span(10 of 12 last);
     @include prefix(0.5 of 12);
     @include suffix(2 of 12);
   }
 
-  @include breakpoint($large) {
+  @include breakpoint($two-column) {
     float: none;
     width: auto;
     max-width: $large;

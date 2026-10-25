@@ -16,9 +16,13 @@
     @include clearfix;
     padding: 1em 1em 1em;
     font-family: $sans-serif-narrow;
-    max-width: none;
-    margin-left: 0;
-    margin-right: 0;
+    max-width: 1280px;
+    margin-left: auto;
+    margin-right: auto;
+
+    @include breakpoint($two-column) {
+      padding-left: 2em;
+    }
 
     nav {
       z-index: 10;
