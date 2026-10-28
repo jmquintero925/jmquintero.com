@@ -10,12 +10,12 @@ redirect_from:
 ---
 
 
-Welcome! I’m a PhD candidate in economics at the University of Chicago. My primary fields are Macroeconomics and Labor Economics.
+Welcome! I’m a Ph.D. candidate in economics at the University of Chicago. My primary fields are macroeconomics and labor economics.
 
 **I am on the 2026/2027 job market.**
 
-I was the winner of the [Yiran Fan Memorial Prize](https://www.chicagobooth.edu/phd/yiran-fan-memorial-conference) in 2025.
+I won the [Yiran Fan Memorial Prize](https://www.chicagobooth.edu/phd/yiran-fan-memorial-conference) in 2025.
 
-Before my PhD I was a Research Specialist for [Professor Ufuk Akcigit](https://www.ufukakcigit.com/). I also worked at the Central Bank of Colombia, and on consultancy at [Quantil S.A.S.](https://quantil.co/en/). My full experience in my [C.V.]({{ '/cv/' | relative_url }})
+Before my Ph.D., I was a research specialist for [Professor Ufuk Akcigit](https://www.ufukakcigit.com/). I also worked at the Central Bank of Colombia and as a consultant at [Quantil S.A.S.](https://quantil.co/en/). Further details about my experience are available in my [CV]({{ '/cv/' | relative_url }}).
 
 {% include research-content.html %}
