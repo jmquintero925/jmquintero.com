@@ -10,7 +10,7 @@ redirect_from:
 ---
 
 
-Welcome! I’m a Ph.D. candidate in economics at the University of Chicago. My primary fields are macroeconomics and labor economics.
+Welcome! I’m a Ph.D. candidate in economics at the University of Chicago. My primary fields are macroeconomics and labor economics, and my secondary fields are international trade and growth.
 
 **I am on the 2026/2027 job market.**
 

@@ -139,6 +139,11 @@
   margin: 0;
 }
 
+.sidebar .author__bio,
+.sidebar .author__affiliation {
+  font-size: 14px;
+}
+
 .author__bio {
   @include breakpoint($two-column) {
     margin-top: 10px;
